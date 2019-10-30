@@ -15,9 +15,6 @@ I alse made a dungeon with traps and such, your health would stay the same every
 -In short what I did.
 
 Identity setup.
-
 Combat system.
-
 Dungeon.
-
 Enemies.
