@@ -12,7 +12,8 @@ He added a travel system and a quest to the game.
 Then we wanted sound and another friend helped with the game and we then had sound.
 I alse made a dungeon with traps and such, your health would stay the same everywhere until you healed.
 
--In short what I did
+-In short what I did.
+
 Identity setup.
 Combat system.
 Dungeon.
